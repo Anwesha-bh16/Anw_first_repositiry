@@ -1,0 +1,9 @@
+l=5
+b=7
+area=l*b
+perimeter=2*(l+b)
+print('The area of the rectangle is ',area,'sq metre')
+print('The perimeter of the rectangle is ',perimeter,'metre')
+r=44
+circle_area=(3.14*r*r)
+print('The area of the circle is ',circle_area,'sq metre')
